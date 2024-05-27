@@ -1,2 +1,2 @@
 # App-Calculadora
-App de calculdaora desenvolvido na ferramenta MIT App Inventor
+App de calculadora desenvolvido na ferramenta MIT App Inventor
